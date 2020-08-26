@@ -61,12 +61,15 @@ This is a two part setup. The first is Salesforce Service Cloud Setup and the se
 - OPTIONAL: Add Service Channels(if applicable do for all members of queue for each member profile) e.g. Cases 
 ![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/servicechannels.png)
 
-kk
-
+- Obtain Chat Deployment Code from Deployments to be used to 
+  * test the chat functionality in SalesForce 
+  * test the Watson Assistant & SalesForce Chat functionality integration
+![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/deploymentcode.png)
 
 
 
 ### Part 2 - Watson Assistant Web Chat setup
+
 
 
 ### Part 3 - Creation of a HTML Page to test SalesForce Deployment/Chat Button code
