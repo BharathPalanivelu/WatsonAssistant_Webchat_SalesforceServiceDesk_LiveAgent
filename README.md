@@ -74,7 +74,21 @@ This is a two part setup. The first is Salesforce Service Cloud Setup and the se
 
 ### Part 2 - Watson Assistant Web Chat setup into your website
 - Provision an instance of Watson Assistant Plus
-- 
+
+- Create Assistant or Choose Assistant you want to set up the integration with
+![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/createassistant.png)
+
+- Add integration (on the right)
+![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/addintegration.png)
+
+- Choose Web Chat integration
+![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/webchatintegration.png)
+
+- Name the integration
+![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/webchatintegrationname.png)
+
+
+
 
 
 ### Part 3 - Creation of a HTML Page to test SalesForce Deployment/Chat Button code (transfers to live agent)
