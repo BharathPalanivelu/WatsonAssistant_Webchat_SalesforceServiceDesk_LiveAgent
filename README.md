@@ -73,7 +73,8 @@ This is a two part setup. The first is Salesforce Service Cloud Setup and the se
 
 
 ### Part 2 - Watson Assistant Web Chat setup into your website
-- Provision and instance of Watson Assistant
+- Provision an instance of Watson Assistant Plus
+- 
 
 
 ### Part 3 - Creation of a HTML Page to test SalesForce Deployment/Chat Button code (transfers to live agent)
@@ -85,9 +86,11 @@ paste the code into your HTML page and change from <!-- Online Chat Content --> 
 
 
 
-Resources:
-Deploying Watson Assistant web Chat into your website https://cloud.ibm.com/docs/assistant?topic=assistant-deploy-web-chat, https://cloud.ibm.com/docs/assistant?topic=assistant-deploy-web-chat#deploy-web-chat-extend
-Integrating the Watson Assistant web chat with SalesForcehttps://cloud.ibm.com/docs/assistant?topic=assistant-deploy-salesforce
-Customer Care Overview Chart: https://www.ibm.com/watson/assets/duo/pdf/184_Onepager_190129_CustomerCareAgentAssist.pdf
+#### Resources:
+- Deploying Watson Assistant web Chat into your website https://cloud.ibm.com/docs/assistant?topic=assistant-deploy-web-chat, https://cloud.ibm.com/docs/assistant?topic=assistant-deploy-web-chat#deploy-web-chat-extend
+- Integrating the Watson Assistant web chat with SalesForcehttps://cloud.ibm.com/docs/assistant?topic=assistant-deploy-salesforce
+- Customer Care Overview Chart: https://www.ibm.com/watson/assets/duo/pdf/184_Onepager_190129_CustomerCareAgentAssist.pdf
+- SalesForce integration video: https://www.youtube.com/watch?v=mUx-qvZH-qo
+- Watson Agent Assist on ServiceCloud: https://www.youtube.com/watch?v=j5fQAmYPeHs
 
 
