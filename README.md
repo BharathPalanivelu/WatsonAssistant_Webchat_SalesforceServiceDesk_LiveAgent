@@ -16,7 +16,7 @@ This is a two part setup. The first is Salesforce Service Cloud Setup and the se
 
 ### Part 1 - Salesforce Setup & ServiceCloud setup 
 
-- Obtain a Salesforce instance with Administrator access
+- Obtain a Salesforce instance with Administrator access and ensure ServiceCloud user & chat user is checked on the user profile you are testing with
 ![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/SalesForceSysAdminProfile.png)
 
 ### Part 2 - Watson Assistant Web Chat setup
