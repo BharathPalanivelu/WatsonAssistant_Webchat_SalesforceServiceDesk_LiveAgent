@@ -13,6 +13,11 @@ Live Agent: This will be the service desk employee who will interact with SalesF
 Omni-channel:
 Routing Configuration:
 Queue:
+QuickFind:
+Chat Deployment
+Chat Button
+Presence Status
+Service Channel
 
 
 ## Setup
@@ -71,8 +76,14 @@ This is a two part setup. The first is Salesforce Service Cloud Setup and the se
 - Create a chat button for code to be generated and embedded into an HTML webpage for your users(you will select your queue created previously & omni-channel
 ![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/chatbuttoncode.png)
 
+### Part 2 - Creation of a HTML Page to test SalesForce Deployment/Chat Button code (transfers to live agent)
 
-### Part 2 - Watson Assistant Web Chat setup into your website
+ 
+- Paste both the chat deployment code and chat button code into an empty html file (text/html editor) use an existing website and embed
+- Edit the following from the file:  change from <!-- Online Chat Content --> to <"ONLINE"> and <!-- Offline Chat Content --> to <"ONLINE">
+
+
+### Part 3 - Watson Assistant Web Chat setup into your website
 - Provision an instance of Watson Assistant Plus
 
 - Create Assistant or Choose Assistant you want to set up the integration with
@@ -91,11 +102,9 @@ This is a two part setup. The first is Salesforce Service Cloud Setup and the se
 
 
 
-### Part 3 - Creation of a HTML Page to test SalesForce Deployment/Chat Button code (transfers to live agent)
 
-paste the code into your HTML page and change from <!-- Online Chat Content --> to <"ONLINE"> and <!-- Offline Chat Content --> to <"ONLINE">
 
-### Part 4 - Integration of Watson Assistant virtual agent with SalesForce ServiceCloud (live agent transfer) Test via your website
+### Part 4 - Integration of Watson Assistant virtual agent with SalesForce ServiceCloud (live agent transfer) Test via your website & servicecloud
 
 
 
