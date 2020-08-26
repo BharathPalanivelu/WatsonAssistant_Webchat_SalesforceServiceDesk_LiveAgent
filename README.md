@@ -61,6 +61,8 @@ This is a two part setup. The first is Salesforce Service Cloud Setup and the se
 - OPTIONAL: Add Service Channels(if applicable) e.g. Cases
 ![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/servicechannels.png)
 
+kk
+
 
 
 
