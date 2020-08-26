@@ -57,6 +57,10 @@ This is a two part setup. The first is Salesforce Service Cloud Setup and the se
 ![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/servicepresencestatusesaccess.png)
 ![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/agentchatoptions.png)
 
+- Create a queue, select your routing configuration created previously and objects to be sent to the queue for the agents e.g. chat, cases
+![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/queue.png)
+
+
 
 - OPTIONAL: Add Service Channels(if applicable do for all members of queue for each member profile) e.g. Cases 
 ![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/servicechannels.png)
