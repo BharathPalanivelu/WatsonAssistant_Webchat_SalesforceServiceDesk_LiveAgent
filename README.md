@@ -1,4 +1,4 @@
-# Integrating WatsonAssistant Webchat w/ Salesforce ServiceDesk 
+# Integrating Watson Assistant Webchat w/ Salesforce ServiceDesk 
 
 In this repo we will illustrate two usecases: 
 - Watson Assistant Webchat integration with SalesForce Service Desk to a Live Agent handoff 
@@ -17,6 +17,6 @@ This is a two part setup. The first is Salesforce Service Cloud Setup and the se
 ### Part 1 - Salesforce Setup & ServiceCloud setup 
 
 - Obtain a Salesforce instance with Administrator access
-![test](https://github.com/bmguillo/IAM_Tutorial/blob/master/img/iam0.png)
+![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/SalesForceSysAdminProfile.png)
 
 ### Part 2 - Watson Assistant Web Chat setup
