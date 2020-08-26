@@ -48,10 +48,18 @@ This is a two part setup. The first is Salesforce Service Cloud Setup and the se
 - Presence Config(DO NOT HAVE TO CHANGE) shows the max capacity of both cases & chats your agent can handle
 ![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/presenceconfig.png)
 
-- Setup agents available and not available status to external users for chat, you create one per status
+- Setup agents available and not available status to external users for chat, you create one per channel per agent
 ![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/presencestatus.png)
 ![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/presencestatus_chat.png)
 
+
+- Assign chat statuses to an agent(user profile)
+![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/servicepresencestatusesaccess.png)
+![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/agentchatoptions.png)
+
+
+- OPTIONAL: Add Service Channels(if applicable) e.g. Cases
+![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/servicechannels.png)
 
 
 
