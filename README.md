@@ -80,9 +80,16 @@ Service Channel <br />
 
  
 - Paste both the chat deployment code and chat button code into an empty html file (text/html editor) use an existing website and embed
-- Edit the following from the file:  change from <!-- Online Chat Content --> to <"ONLINE"> and <!-- Offline Chat Content --> to <"ONLINE">
+- Edit the following from the file:  change from <! -- Online Chat Content --> to <"ONLINE"> and <! -- Offline Chat Content --> to <"ONLINE">
+- Open in web browser
 - Tip: If you are on a mac and want to use textedit, go to format and change to make plain text save it as txt then rename to html for it to display as webpage
 - Tip: The agent(user) must set themselves from offline to  "available" in order to receive chats on service console and chat to be available to the external customer
+![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/setavailablestatus.png)
+
+- Tip: The HTML website chat simulates a customer and the ServiceConsole is the live agent in conversation with them
+![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/webpagechatonline.png)
+
+
 
 
 ### Part 3 - Watson Assistant Web Chat setup into your website
