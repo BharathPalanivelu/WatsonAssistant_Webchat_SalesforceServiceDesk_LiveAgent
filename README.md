@@ -60,8 +60,6 @@ This is a two part setup. The first is Salesforce Service Cloud Setup and the se
 - Create a queue, select your routing configuration created previously and objects to be sent to the queue for the agents e.g. chat, cases
 ![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/queue.png)
 
-
-
 - OPTIONAL: Add Service Channels(if applicable do for all members of queue for each member profile) e.g. Cases 
 ![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/servicechannels.png)
 
@@ -69,6 +67,10 @@ This is a two part setup. The first is Salesforce Service Cloud Setup and the se
   * test the chat functionality in SalesForce 
   * test the Watson Assistant & SalesForce Chat functionality integration
 ![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/deploymentcode.png)
+
+- Create a chat button for code to be generated and embedded into an HTML webpage for your users(you will select your queue created previously & omni-channel
+![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/chatbuttoncode.png)
+
 
 
 
