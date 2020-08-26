@@ -67,3 +67,8 @@ kk
 
 
 ### Part 2 - Watson Assistant Web Chat setup
+
+
+### Part 3 - Creation of a HTML Page to test SalesForce Deployment/Chat Button code
+
+### Part 4 - Integration of Watson Assistant with SalesForce ServiceCloud Test
