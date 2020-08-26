@@ -80,4 +80,6 @@ This is a two part setup. The first is Salesforce Service Cloud Setup and the se
 
 ### Part 3 - Creation of a HTML Page to test SalesForce Deployment/Chat Button code
 
+paste the code into your HTML page and change from <!-- Online Chat Content --> to <"ONLINE"> and <!-- Offline Chat Content --> to <"ONLINE">
+
 ### Part 4 - Integration of Watson Assistant with SalesForce ServiceCloud Test
