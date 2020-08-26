@@ -9,19 +9,19 @@ In this repo we will illustrate two usecases:
 We will define a few terms:<br />
 User: This will be a customer that will interact via chat(Watson Assistant) to a live agent<br />
 SalesForce ServiceCloud: App that helps deliver fast, personalized customer service & improves customer satisfaction to help agents deliver the right answers and service insights<br />
-Live Agent: This will be the service desk employee who will interact with SalesForce ServiceCloud to receive chat handoff
-Omni-channel:
-Routing Configuration:
-Queue:
-QuickFind:
-Chat Deployment
-Chat Button
-Presence Status
-Service Channel
+Live Agent: This will be the service desk employee who will interact with SalesForce ServiceCloud to receive chat handoff <br />
+Omni-channel: <br />
+Routing Configuration:<br />
+Queue: <br />
+QuickFind: <br />
+Chat Deployment <br />
+Chat Button <br />
+Presence Status <br />
+Service Channel <br />
 
 
 ## Setup
-This is a two part setup. The first is Salesforce Service Cloud Setup and the second is Watson Assistant Web Chat setup.
+
 
 ### Part 1 - Salesforce Setup & ServiceCloud setup 
 
@@ -81,6 +81,8 @@ This is a two part setup. The first is Salesforce Service Cloud Setup and the se
  
 - Paste both the chat deployment code and chat button code into an empty html file (text/html editor) use an existing website and embed
 - Edit the following from the file:  change from <!-- Online Chat Content --> to <"ONLINE"> and <!-- Offline Chat Content --> to <"ONLINE">
+- Tip: If you are on a mac and want to use textedit, go to format and change to make plain text save it as txt then rename to html for it to display as webpage
+- Tip: The agent(user) must set themselves from offline to  "available" in order to receive chats on service console and chat to be available to the external customer
 
 
 ### Part 3 - Watson Assistant Web Chat setup into your website
@@ -104,7 +106,7 @@ This is a two part setup. The first is Salesforce Service Cloud Setup and the se
 
 
 
-### Part 4 - Integration of Watson Assistant virtual agent with SalesForce ServiceCloud (live agent transfer) Test via your website & servicecloud
+### Part 4 - Integration of Watson Assistant virtual agent with SalesForce ServiceCloud Service Console (live agent transfer) Test via your website & servicecloud
 
 
 
