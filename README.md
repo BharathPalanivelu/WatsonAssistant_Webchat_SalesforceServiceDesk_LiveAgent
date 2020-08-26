@@ -15,4 +15,7 @@ Live Agent: This will be the service desk employee who will interact with SalesF
 This is a two part setup. The first is Salesforce Service Cloud Setup and the second is Watson Assistant Web Chat setup.
 
 # Part 1 - Salesforce Setup & ServiceCloud setup 
+
+- Obtain a Salesforce instance with Administrator access
+
 # Part 2 - Watson Assistant Web Chat setup
