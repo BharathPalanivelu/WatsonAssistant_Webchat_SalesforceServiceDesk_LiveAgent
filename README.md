@@ -23,8 +23,10 @@ This is a two part setup. The first is Salesforce Service Cloud Setup and the se
 - Obtain a Salesforce instance with Administrator access and log in
 ![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/sflogin.png)
 
+
 - Go to service app
 ![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/serviceapp.png)
+
 
 - Click on gear and go to service settings
 ![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/setup.png)
@@ -33,11 +35,25 @@ This is a two part setup. The first is Salesforce Service Cloud Setup and the se
 - Ensure ServiceCloud user & chat user is checked on the user profile you are testing with by using QuickFind and searching "users"
 ![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/quickfindusers.png)
 ![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/SalesForceSysAdminProfile.png)
+
+
 - Enable Omni Channel Settings by utilizing QuickFind
 ![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/omnichannel.png)
+
+
 - Setup a routing configuration
 ![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/routingconfiguration.png)
-- 
+
+
+- Presence Config(DO NOT HAVE TO CHANGE) shows the max capacity of both cases & chats your agent can handle
+![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/presenceconfig.png)
+
+- Setup agents available and not available status to external users for chat, you create one per status
+![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/presencestatus.png)
+![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/presencestatus_chat.png)
+
+
+
 
 
 ### Part 2 - Watson Assistant Web Chat setup
