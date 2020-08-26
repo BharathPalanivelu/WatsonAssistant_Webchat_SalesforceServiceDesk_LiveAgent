@@ -16,7 +16,19 @@ This is a two part setup. The first is Salesforce Service Cloud Setup and the se
 
 ### Part 1 - Salesforce Setup & ServiceCloud setup 
 
-- Obtain a Salesforce instance with Administrator access and ensure ServiceCloud user & chat user is checked on the user profile you are testing with
+- Obtain a Salesforce instance with Administrator access and log in
+![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/sflogin.png)
+
+- Go to service app
+![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/serviceapp.png)
+
+- Click on gear and go to service settings
 ![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/SalesForceSysAdminProfile.png)
+
+- Ensure ServiceCloud user & chat user is checked on the user profile you are testing with by using QuickFind and searching "users"
+![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/quickfinduser.png)
+
+![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/SalesForceSysAdminProfile.png)
+- Enable Omni Channel Settings by utilizing QuickFind
 
 ### Part 2 - Watson Assistant Web Chat setup
