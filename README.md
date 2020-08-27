@@ -92,17 +92,13 @@ Service Channel <br />
 - As a customer, click the "online" to initiate a chat with the live agent
 ![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/customerinitiateschat.png)
 
-- Within Service Console, the agent accepts chat & a window appears 
+- Within Service Console, the agent accepts chat by clicking on the checkbox in the omni-channel chat box & a window appears 
 ![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/agentacceptschat.png)
 
 
 - Agent types & then sends a response to the customer
 ![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/agenttyping.png)
 ![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/agentresponsetocustomer.png)
-
-
-
-
 
 
 
@@ -121,6 +117,12 @@ Service Channel <br />
 - Name the integration
 ![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/webchatintegrationname.png)
 
+- Customize UI,Connect SalesForce
+![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/webchatsalesforcestep1.png)
+![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/webchatsalesforcestep2.png)
+
+- Turn on Live Agent, Create a VisualForce page in Salesforce for the chat transcript to be transferred to the agent and add fields req'd
+![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/webchatsalesforcestep3.png)
 
 
 
