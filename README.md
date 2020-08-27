@@ -2,7 +2,6 @@
 
 In this repo we will illustrate two usecases: 
 - Watson Assistant Webchat integration with SalesForce Service Desk to a Live Agent handoff 
-- Live Agent - Agent Assist usecase incorporating Watson Assistant with Watson Discovery
 
 ## Terms
 
