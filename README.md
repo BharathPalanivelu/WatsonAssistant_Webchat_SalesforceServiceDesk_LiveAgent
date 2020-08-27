@@ -121,8 +121,9 @@ Service Channel <br />
 ![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/webchatsalesforcestep1.png)
 ![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/webchatsalesforcestep2.png)
 
-- Turn on Live Agent, Create custom labels by going to Data --> Objects and Fields --> Object Manager --> Chat Transcript --> Fields and Relationships, grant the labels to the user profiles
+- Turn on Live Agent, create dialog, Create custom labels by going to Data --> Objects and Fields --> Object Manager --> Chat Transcript --> Fields and Relationships, grant the labels to the user profiles
 Tip: These should be created before you paste in the code in the next step because the code calls for these
+![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/transferagentdialog.png)
 ![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/visualforcecustomfields.png)
 ![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/visualforcecustomfields2.png)
 
@@ -147,5 +148,6 @@ Tip: These should be created before you paste in the code in the next step becau
 - Customer Care Overview Chart: https://www.ibm.com/watson/assets/duo/pdf/184_Onepager_190129_CustomerCareAgentAssist.pdf
 - SalesForce integration video: https://www.youtube.com/watch?v=mUx-qvZH-qo
 - Watson Agent Assist on ServiceCloud: https://www.youtube.com/watch?v=j5fQAmYPeHs
+- Transfer to agent node: https://cloud.ibm.com/docs/assistant?topic=assistant-deploy-web-chat#deploy-web-chat-dialog-prereq
 
 
