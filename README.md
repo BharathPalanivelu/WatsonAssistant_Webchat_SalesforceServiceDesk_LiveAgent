@@ -148,8 +148,16 @@ Tip: These should be created before you paste in the code in the next step becau
 - Click request agent (you are simulating a customer)
 ![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/WatsonAssistantrequestagent.png)
 
-- Agent accepts chat in SalesForce ServiceCloud by clicking "check mark" to accept in omni-channel window(you are simulating a live agent)
+- Agent accepts chat in SalesForce ServiceCloud by clicking "check mark" to accept in omni-channel window(you are simulating a live agent) and it shows in Watson Assistant
 ![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/SalesForceLiveAgentAcceptchat.png)
+![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/liveagentjoinschat.png)
+
+- Customer & Live Agent chat & then the agent ends the chat
+![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/twosidechat.png)
+![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/endchatsf.png)
+![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/chatendedwa.png)
+
+### Part 5: Agent Assist - Search skill connect WA to WDS
 
 
 
