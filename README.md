@@ -10,14 +10,14 @@ We will define a few terms:<br />
 User: This will be a customer that will interact via chat(Watson Assistant) to a live agent<br />
 SalesForce ServiceCloud: App that helps deliver fast, personalized customer service & improves customer satisfaction to help agents deliver the right answers and service insights<br />
 Live Agent: This will be the service desk employee who will interact with SalesForce ServiceCloud to receive chat handoff <br />
-Omni-channel: <br />
+Omni-channel:Omni-Channel is a tool that sits inside of either the Sales or Service Console that, once enabled and configured, automatically pushes work to your users in real time. <br />
 Routing Configuration:<br />
-Queue: <br />
-QuickFind: <br />
-Chat Deployment <br />
-Chat Button <br />
-Presence Status <br />
-Service Channel <br />
+Queue: Prioritize, distribute, and assign records to teams who share workloads. Queue members can jump in to take ownership of any record in a queue.They're available for chat<br />
+QuickFind: search box for Setup pages <br />
+Chat Deployment: A deployment is a place on your company’s website that’s enabled for Chat. Create deployments to implement Chat and control its functionality on your website. <br />
+Chat Button: Create chat buttons to enable customers to request a chat with an agent directly from your website <br />
+Presence Status: Presence statuses indicate whether an agent is online and available to receive incoming work items, or whether the agent is away or offline. You can give users access to presence statuses through profiles. <br />
+Service Channel: Customize your service channel settings to define how your organization receives work from various sources, such as chat, email, SOS calls, or social channels <br />
 
 
 ## Setup
