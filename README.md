@@ -121,8 +121,15 @@ Service Channel <br />
 ![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/webchatsalesforcestep1.png)
 ![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/webchatsalesforcestep2.png)
 
-- Turn on Live Agent, Create a VisualForce page in Salesforce for the chat transcript to be transferred to the agent and add fields req'd
-![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/webchatsalesforcestep3.png)
+- Turn on Live Agent, Create custom labels by going to Data --> Objects and Fields --> Object Manager --> Chat Transcript --> Fields and Relationships, grant the labels to the user profiles
+Tip: These should be created before you paste in the code in the next step because the code calls for these
+![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/visualforcecustomfields.png)
+![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/visualforcecustomfields2.png)
+
+
+
+- Create a VisualForce page in Salesforce for the chat transcript to be transferred to the agent by replacing SalesForce code: paste from Watson Assistant UI to SalesForce VisualForce Page
+![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/visualforcepagecreate.png)
 
 
 
