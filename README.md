@@ -126,17 +126,11 @@ Tip: These should be created before you paste in the code in the next step becau
 ![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/visualforcecustomfields.png)
 ![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/visualforcecustomfields2.png)
 
-
-
 - Create a VisualForce page in Salesforce for the chat transcript to be transferred to the agent by replacing SalesForce code: paste from Watson Assistant UI to SalesForce VisualForce Page
 ![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/visualforcepagecreate.png)
 
 
-
-
-
-
-### Part 4 - Integration of Watson Assistant virtual agent with SalesForce ServiceCloud Service Console (live agent transfer) Test via your website & servicecloud
+### Part 4 - Integration of Watson Assistant virtual agent with SalesForce ServiceCloud Service Console (live agent transfer) Test via Watson Assistant UI and servicecloud and then test your website and service cloud
 
 - Set "available to chat" status in omni-channel window in Service Console as illustrated in Part 2
 ![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/setavailablestatus.png)
@@ -155,8 +149,6 @@ Tip: These should be created before you paste in the code in the next step becau
 ![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/twosidechat.png)
 ![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/endchatsf.png)
 ![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/chatendedwa.png)
-
-### Part 5: Agent Assist - Search skill connect WA to WDS
 
 
 
