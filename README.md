@@ -139,6 +139,17 @@ Tip: These should be created before you paste in the code in the next step becau
 
 ### Part 4 - Integration of Watson Assistant virtual agent with SalesForce ServiceCloud Service Console (live agent transfer) Test via your website & servicecloud
 
+- Set "available to chat" status in omni-channel window in Service Console as illustrated in Part 2
+![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/setavailablestatus.png)
+
+- Go to Watson Assistant and select "web chat" and call out to an agent using the intent, you should see a Live Agent Card populate
+![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/WatsonAssistantwebchattest.png)
+
+- Click request agent (you are simulating a customer)
+![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/WatsonAssistantrequestagent.png)
+
+- Agent accepts chat in SalesForce ServiceCloud by clicking "check mark" to accept in omni-channel window(you are simulating a live agent)
+![test](https://github.com/bmguillo/WatsonAssistant_Webchat_SalesforceServiceDesk_LiveAgent_AgentAssist/blob/master/img/SalesForceLiveAgentAcceptchat.png)
 
 
 
