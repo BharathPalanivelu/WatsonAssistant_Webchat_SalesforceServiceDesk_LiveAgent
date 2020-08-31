@@ -1,6 +1,6 @@
 # Integrating Watson Assistant Webchat w/ Salesforce ServiceDesk 
 
-In this repo we will illustrate two usecases: 
+In this repo we will illustrate the following usecase: 
 - Watson Assistant Webchat integration with SalesForce Service Desk to a Live Agent handoff 
 
 ## Terms
