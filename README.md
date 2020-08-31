@@ -154,7 +154,7 @@ Tip: These should be created before you paste in the code in the next step becau
 
 #### Resources:
 - Deploying Watson Assistant web Chat into your website https://cloud.ibm.com/docs/assistant?topic=assistant-deploy-web-chat, https://cloud.ibm.com/docs/assistant?topic=assistant-deploy-web-chat#deploy-web-chat-extend
-- Integrating the Watson Assistant web chat with SalesForcehttps://cloud.ibm.com/docs/assistant?topic=assistant-deploy-salesforce
+- Integrating the Watson Assistant web chat with SalesForce https://cloud.ibm.com/docs/assistant?topic=assistant-deploy-salesforce
 - Customer Care Overview Chart: https://www.ibm.com/watson/assets/duo/pdf/184_Onepager_190129_CustomerCareAgentAssist.pdf
 - SalesForce integration video: https://www.youtube.com/watch?v=mUx-qvZH-qo
 - Watson Agent Assist on ServiceCloud: https://www.youtube.com/watch?v=j5fQAmYPeHs
